@@ -1,3 +1,7 @@
 h2{
   color: cornflowerblue;
 }
+.wrapper{
+  margin: 0px auto;
+  width: 820px;
+}
